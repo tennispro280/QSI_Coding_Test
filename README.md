@@ -4,7 +4,7 @@ This repository is to server as the submission of the QSI coding test compleated
 ## Building Distance to Query
 This program is designed to identify the building from a list of buildings that maintains the minimum distance to each unique item in a list of query locations. It is written in python 3.7. 
 
-## Inputs Perameters
+## Inputs Parameters
 **building.csv**
   * This is a csv file that contains location data for buildings. Currently the program will run if the input csv maintains X and Y headers in capital letter only.  
   
