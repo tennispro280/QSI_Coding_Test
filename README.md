@@ -34,4 +34,4 @@ Open the QSI_Coding_Test_Boyer.py file in any Python 3 IDE of choice. Insure tha
 *shapely.geometry -> Point*
 
 ### Future Work
-I gave a go at wrapping the program in a GUI/UI using QT5. Ran out of time to fully package it with a nice UI. I have attached this incompleate python program in addition to the compleated program within this repository for reference labeled UI Wrapping. 
+I gave a go at wrapping the program in a GUI/UI using QT5. Ran out of time to fully package it with a nice UI. I have attached this python program in addition to the compleated program within this repository for reference labeled UI Wrapping. 
