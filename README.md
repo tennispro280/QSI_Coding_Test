@@ -22,7 +22,10 @@ The results will be written to the designated output folder and titled Distance_
   * Header[Index,Building,Distance,Query]
  
  The Distance_Results.csv contain the name of the **Building** at the identified **Distance** to the **Query** location.
-  
+
+## Running + Installation
+Open the QSI_Coding_Test_Boyer.py file in any IDE of choice. Insure that you have the needed dependencies installed listed bellow. Change the inputs and out put to meet your requirements. Exectue. 
+
 ### Dependencies
 *pandas* 
 
