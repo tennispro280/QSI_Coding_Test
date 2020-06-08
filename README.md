@@ -24,7 +24,7 @@ The results will be written to the designated output folder and titled Distance_
  The Distance_Results.csv contain the name of the **Building** at the identified **Distance** to the **Query** location.
 
 ## Running + Installation
-Open the QSI_Coding_Test_Boyer.py file in any IDE of choice. Insure that you have the needed dependencies installed listed bellow. Change the inputs and output to meet your requirements. Exectue. 
+Open the QSI_Coding_Test_Boyer.py file in any Python 3 IDE of choice. Insure that you have the needed dependencies installed listed bellow. Change the inputs and output to meet your requirements and program documentation. Exectue. 
 
 ### Dependencies
 *pandas* 
@@ -34,4 +34,4 @@ Open the QSI_Coding_Test_Boyer.py file in any IDE of choice. Insure that you hav
 *shapely.geometry -> Point*
 
 ### Future Work
-I gave a go at wrapping the program in a GUI/UI using QT5. Ran out of time to fully package it with a nice UI. I have attached this incompleate python program within this repository for reference labeled UI Wrapping. 
+I gave a go at wrapping the program in a GUI/UI using QT5. Ran out of time to fully package it with a nice UI. I have attached this incompleate python program in addition to the compleated program within this repository for reference labeled UI Wrapping. 
