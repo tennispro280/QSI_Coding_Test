@@ -1,5 +1,5 @@
-# QSI_Coding_Test
-This repository is to server as the submission of the QSI coding test compleated for an interview with the CSI team may 4, 2020.
+# Coding_Boyer
+This repository is to server as an example of work created on June 4, 2020.
 
 ## Building Distance to Query
 This program is designed to identify the building from a list of buildings that maintains the minimum distance to each unique item in a list of query locations. It is written in python 3.7. 
